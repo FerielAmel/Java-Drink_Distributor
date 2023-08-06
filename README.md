@@ -3,4 +3,4 @@ This is an implementation of a beverage distributor with Java. The distributor m
 
 ![distributeur](https://github.com/FerielAmel/Java-Drink_Distributor/assets/107730108/84c5f61c-da1a-4f21-8edc-f21c88d1881b)
 
-@m0kr4n3 and I, worked on this.
+@Mokrane Abdelmalek and I, worked on this.
